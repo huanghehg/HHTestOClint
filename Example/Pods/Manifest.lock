@@ -1,0 +1,16 @@
+PODS:
+  - HHTestOClint (0.1.0)
+
+DEPENDENCIES:
+  - HHTestOClint (from `../`)
+
+EXTERNAL SOURCES:
+  HHTestOClint:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHTestOClint: 90e676e91e8939ea3999c5797e50d75eba8e073c
+
+PODFILE CHECKSUM: 5dd608e6348ccb6ebc45e08d5dd8b3d008e6b78e
+
+COCOAPODS: 1.8.4

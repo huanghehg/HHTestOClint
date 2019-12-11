@@ -1,0 +1,6 @@
+framework module HHTestOClint {
+  umbrella header "HHTestOClint-umbrella.h"
+
+  export *
+  module * { export * }
+}
