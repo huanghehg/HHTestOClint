@@ -14,5 +14,18 @@
     return;
 }
 
-
+- (void)testOclintTestSwitchBreak:(int)A {
+    switch (A) {
+        case 1:
+            NSLog(@"----");
+            break;
+        case 2:
+            NSLog(@"----");
+            break;
+        case 3:
+            NSLog(@"----");
+        default:
+            break;
+    }
+}
 @end
